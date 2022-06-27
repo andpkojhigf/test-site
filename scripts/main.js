@@ -28,7 +28,3 @@ function setUserName() {
   myButton.onclick = function() {
     setUserName();
   }
-
-  // HUI
-  // HUI
-  //ljlkhghfdgjhk
